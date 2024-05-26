@@ -1,0 +1,7 @@
+name=Number 7
+author=Miroslaw Zielinski
+description=Puzzle game
+bundleID=com.zielok.number7
+version=1.0
+buildNumber=100
+imagePath=SystemAssets
