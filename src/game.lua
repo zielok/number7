@@ -221,6 +221,7 @@ function Game:draw()
 end
 
 function Game:wstawDwa()
+    --wstawia dwa
     self:initwstaw()
     self:wstaw(maxvalue)
     ileJest = self:checkend()
